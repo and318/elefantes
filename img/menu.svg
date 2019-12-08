@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4px" height="16px" viewBox="0 0 4 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 61 (101010) - https://sketch.com -->
+    <title>C1F8B997-C1C7-4678-96BE-9C1DB92261E2@1.00x</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="componentes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mobile" transform="translate(-332.000000, -132.000000)" fill="#BFC5D2">
+            <g id="item-mobile" transform="translate(24.000000, 104.000000)">
+                <g id="contenido" transform="translate(16.000000, 16.000000)">
+                    <path d="M288,18 C289.104569,18 290,18.8954305 290,20 C290,21.1045695 289.104569,22 288,22 C286.895431,22 286,21.1045695 286,20 C286,18.8954305 286.895431,18 288,18 Z M294,18 C295.104569,18 296,18.8954305 296,20 C296,21.1045695 295.104569,22 294,22 C292.895431,22 292,21.1045695 292,20 C292,18.8954305 292.895431,18 294,18 Z M300,18 C301.104569,18 302,18.8954305 302,20 C302,21.1045695 301.104569,22 300,22 C298.895431,22 298,21.1045695 298,20 C298,18.8954305 298.895431,18 300,18 Z" id="menu" transform="translate(294.000000, 20.000000) rotate(-90.000000) translate(-294.000000, -20.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
