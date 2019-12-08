@@ -30,13 +30,13 @@ body {
   height: 15px;
   margin: -1px 4px 0 0;
   vertical-align: middle;
-  background: url(checkbox-uncheck.png);
+  background: url(../img/checkbox-uncheck.png);
   background-size: cover;
   cursor: pointer;
 }
 
 .label-checkbox input[type="checkbox"]:checked + label span {
-  background: url(checkbox-check.png);
+  background: url(../img/checkbox-check.png);
   background-size: cover;
 }
 
